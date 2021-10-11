@@ -17,6 +17,6 @@ Porque ele é totalmente personalizável às suas necessidades. Você pode criar
 
 ## Bibliotecas utilizadas
 
-- [GoogleNews](hhttps://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_csv.html) - Faz conexão com a API do Google News e cria arquivos XML para RSS
-- [Pandas](https://github.com/Iceloof/GoogleNews) - Configura a planilha e transforma em CSV
-- [Gspread] (https://docs.gspread.org/en/v4.0.1/) - Conecta com Google Spread sheets para a atualização sem necessidade de download do arquivo
+- [GoogleNews](https://github.com/Iceloof/GoogleNews)- Faz conexão com a API do Google News e cria arquivos XML para RSS
+- [Pandas](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_csv.html) - Configura a planilha e transforma em CSV
+- [Gspread](https://docs.gspread.org/en/v4.0.1/) - Conecta com Google Spread sheets para a atualização sem necessidade de download do arquivo
